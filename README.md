@@ -16,7 +16,7 @@ Study the effect on the output voltage. For this click on blue color 'Configure'
 Repeat steps 2 to 4 by changing supply frequency keeping and no of turns constant. Study the effect on the output voltage. Now keep supply voltage and frequency constant. Change the no of turns and observe the effect on the output voltage by repeating steps 2 to 4.
 
 ## Circuit Diagram of LVDT
-<img width="205" height="378" alt="image" src="https://github.com/user-attachments/assets/ecd1b859-98fc-4263-939c-f735761a2815" />
+<img width="398" height="711" alt="WhatsApp Image 2026-05-22 at 10 49 43 AM" src="https://github.com/user-attachments/assets/779c0b41-09c4-4d1b-99bd-31103af61125" />
 
 ## NOTE
 The Supply Voltage range is 5V to 15V
@@ -24,9 +24,9 @@ The Supply Frequency range is 1KHz to 10KHz
 For simulation purpuse ,the Supply Voltage is restricted to 10V and Supply Frequency is restricted to 5 KHz
 
 ## Measuremnt:
-Number of Turns : 
-Supply Voltage :
-Supply Frequency :
+Number of Turns : 1000
+Supply Voltage : 5
+Supply Frequency : 1000
 
 
 ## Formula Used :
@@ -55,12 +55,10 @@ m = length of secondary winding (= 10 mm)
 
 ## Output waveforms:
 
-
-
-
+<img width="1600" height="767" alt="WhatsApp Image 2026-05-22 at 10 48 49 AM" src="https://github.com/user-attachments/assets/647b503a-9237-4f14-8022-d5778bb8437b" />
 
 
 ## Result:
-
+The displacement of the movable core was successfully measured using the linear variable differential transformer.
 
 
